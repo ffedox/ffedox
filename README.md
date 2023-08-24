@@ -4,7 +4,7 @@
   
   > /aˈli.t͡ʃe  fjɪˈdɔtəvə/
   
-  [Translation & Technology](https://corsi.unibo.it/2cycle/SpecializedTranslation/course-structure-diagram/piano/2023/9174/C09/000/2023) graduate interested in Multimodality, Information Extraction and Language Resource Creation 💻
+  [Translation & Technology](https://corsi.unibo.it/2cycle/SpecializedTranslation/course-structure-diagram/piano/2023/9174/C09/000/2023) graduate interested in Multimodal NLP, Information Extraction and Language Resource Creation 💻
   
   ----
   
