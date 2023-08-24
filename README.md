@@ -1,10 +1,12 @@
-<div style="text-align:center;">
+<p align="center">
 
 ### Alice Fedotova
 
 > /aˈli.t͡ʃe  fjɪˈdɔtəvə/
 
 [Translation & Technology](https://corsi.unibo.it/2cycle/SpecializedTranslation/programme-aims) graduate interested in Multimodality, Information Extraction and Language Resource Creation 💻
+
+</p>
 
 ----
 
@@ -33,4 +35,3 @@ Latest projects
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=github&label=&message=TinfFoil&color=36465D&logoColor=AAA&style=flat-square&link=https://github.com/TinfFoil)
 
-</div>
