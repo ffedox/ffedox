@@ -6,7 +6,7 @@
 
 ----
 
-👷 My latest projects
+Latest projects
 
 - [TinfFoil/isotopy-identification](https://github.com/maximousblk/pi-wifi-check) - Unimodal and multimodal DL models for automatic isotopy identification 
 - [ffedox/parallel-wikipedia](https://github.com/maximousblk/passkeys-demo) - A semi-automatic pipeline for the extraction of parallel corpora from Wikipedia 
