@@ -2,8 +2,7 @@
 
 > /aˈli.t͡ʃe  fjɪˈdɔtəvə/
 
-[Translation & Technology](https://corsi.unibo.it/2cycle/SpecializedTranslation/programme-aims) graduate interested in Multimodality, Information Extraction and Language Resource Creation 👩🏻‍💻
-
+[Translation & Technology](https://corsi.unibo.it/2cycle/SpecializedTranslation/programme-aims) graduate interested in Multimodality, Information Extraction and Language Resource Creation 🦾
 ----
 
 Latest projects
