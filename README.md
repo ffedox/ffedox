@@ -26,7 +26,7 @@ Latest projects
   &nbsp;&nbsp;&nbsp;
 ![OS](https://img.shields.io/static/v1?label=&message=OS:&color=111&style=flat-square)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&label=&message=Windows%10&color=36465D&logoColor=AAA&style=flat-square)
-![arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
+![arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
   &nbsp;&nbsp;&nbsp;
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=github&label=&message=TinfFoil&color=36465D&logoColor=AAA&style=flat-square&link=https://github.com/TinfFoil)
