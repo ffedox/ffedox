@@ -8,9 +8,9 @@
   
 Latest projects
   
-- [TinfFoil/isotopy-identification](https://github.com/maximousblk/pi-wifi-check) -  Scripts for handling multimodal data and fine-tuning Transformer-based models
-- [ffedox/parallel-wikipedia](https://github.com/maximousblk/passkeys-demo) - A semi-automatic pipeline for the extraction of parallel corpora from Wikipedia 
-- [ffedox/ilgiornale-scraping](https://github.com/maximousblk/gh-fire) - A tool for extracting comments and articles from the website of Il Giornale 
+- [TinfFoil/isotopy-identification](https://github.com/TinfFoil/isotopy-identification) -  Scripts for handling multimodal data and fine-tuing Transformer-based models
+- [ffedox/parallel-wikipedia](https://github.com/ffedox/parallel-wikipedia) - A semi-automatic pipeline for the extraction of parallel corpora from Wikipedia 
+- [ffedox/ilgiornale-scraping](https://github.com/ffedox/ilgiornale-scraping) - A tool for extracting comments and articles from the website of Il Giornale 
   
 ----
   
