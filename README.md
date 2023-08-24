@@ -6,7 +6,7 @@
   
 ----
   
-### Latest projects
+### Latest projects 👷🏻‍♀️
   
 - [TinfFoil/isotopy-identification](https://github.com/TinfFoil/isotopy-identification) -  Scripts for handling multimodal data and fine-tuning Transformer-based models
 - [ffedox/parallel-wikipedia](https://github.com/ffedox/parallel-wikipedia) - A semi-automatic pipeline for the extraction of parallel corpora from Wikipedia 
