@@ -2,7 +2,7 @@
 
 > /aˈli.t͡ʃe  fjɪˈdɔtəvə/
 
-[Translation & Technology](https://corsi.unibo.it/2cycle/SpecializedTranslation/programme-aims) graduate working on Multimodal Deep Learning, Information Extraction and Language Resource Creation. 
+[Translation & Technology](https://corsi.unibo.it/2cycle/SpecializedTranslation/programme-aims) graduate working on Multimodal DL, Information Extraction and Language Resource Creation
 
 ----
 
