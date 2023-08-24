@@ -21,7 +21,7 @@ Latest projects
   &nbsp;&nbsp;&nbsp;
 ![Tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
 ![vim](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
-![spark](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&label=&message=Colab&color=36465D&logoColor=AAA&style=flat-square)
+![spark](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&label=&message=Colab&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
   &nbsp;&nbsp;&nbsp;
 ![OS](https://img.shields.io/static/v1?label=&message=OS:&color=111&style=flat-square)
