@@ -23,7 +23,6 @@ My latest projects:
 ![vim](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 ![spark](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&label=&message=Colab&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=overleaf&label=&message=Overleaf&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![OS](https://img.shields.io/static/v1?label=&message=OS:&color=111&style=flat-square)
 ![arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
