@@ -10,9 +10,9 @@
   
   Latest projects
   
-  - [TinfFoil/isotopy-identification](https://github.com/maximousblk/pi-wifi-check) - 🎥 Unimodal and multimodal DL models for automatic isotopy identification 
-  - [ffedox/parallel-wikipedia](https://github.com/maximousblk/passkeys-demo) - 📚 A semi-automatic pipeline for the extraction of parallel corpora from Wikipedia 
-  - [ffedox/ilgiornale-scraping](https://github.com/maximousblk/gh-fire) -  🗞️ A tool for extracting comments and articles from the website of Il Giornale
+  - [TinfFoil/isotopy-identification](https://github.com/maximousblk/pi-wifi-check) -  Unimodal and multimodal DL models for automatic isotopy identification 🎥
+  - [ffedox/parallel-wikipedia](https://github.com/maximousblk/passkeys-demo) - A semi-automatic pipeline for the extraction of parallel corpora from Wikipedia 📚
+  - [ffedox/ilgiornale-scraping](https://github.com/maximousblk/gh-fire) - A tool for extracting comments and articles from the website of Il Giornale 🗞️
   
   ----
   
