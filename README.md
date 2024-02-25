@@ -2,8 +2,6 @@
   
 > /aˈli.t͡ʃe  fjɪˈdɔtəvə/
   
-----
-  
 ### Latest projects 🛠️
   
 - [TinfFoil/isotopy-identification](https://github.com/TinfFoil/isotopy-identification) -  Scripts for handling multimodal data and fine-tuning Transformer-based models
