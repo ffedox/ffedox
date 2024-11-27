@@ -10,6 +10,11 @@
 - [ffedox/ilgiornale-scraping](https://github.com/ffedox/ilgiornale-scraping) - A tool for extracting comments and articles from the website of Il Giornale (2023)
   
 ----
+
+- [ffedox/parallel-wikipedia](https://github.com/ffedox/parallel-wikipedia) - A semi-automatic pipeline for the extraction of parallel corpora from Wikipedia (2023)
+- [ffedox/ilgiornale-scraping](https://github.com/ffedox/ilgiornale-scraping) - A tool for extracting comments and articles from the website of Il Giornale (2023)
+
+----
   
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&link=)
