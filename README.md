@@ -7,8 +7,6 @@
 - [ffedox/eptic-pipeline](https://github.com/ffedox/eptic-wip) - EPTIC workflow, including data extraction, annotation, and upload on NoSketch Engine (2024)
 - [TinfFoil/isotopy-identification](https://github.com/TinfFoil/isotopy-identification) -  Scripts for handling multimodal data and fine-tuning Transformer-based models (2023)
   
-----
-
 ### Other projects 🛠️
 
 - [ffedox/parallel-wikipedia](https://github.com/ffedox/parallel-wikipedia) - A semi-automatic pipeline for the extraction of parallel corpora from Wikipedia (2023)
